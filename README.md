@@ -1,4 +1,4 @@
-# Sensor de temperatura usando plataforma IOT Wireless Monitor
+# Sensor de temperatura usando plataforma IoT Wireless Monitor
 
 Aplicativo que utiliza a api do [Wireless Monitor](https://github.com/SanUSB-grupo/wireless-monitor)
 para enviar dados de medição de temperatura.
